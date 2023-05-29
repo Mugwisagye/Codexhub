@@ -1,0 +1,16 @@
+h1,h2,p {
+    text-align: center;
+}
+
+/** p {text-align: centre;} ** comment in CSS **/
+
+body {
+    background-colour: burlywood;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; /** 80%  instead of px**/
+    background-colour: burlywood; 
+}
